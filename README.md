@@ -44,13 +44,13 @@ Um sistema de tickets muito simples baseado em mensagens do WhatsApp, que permit
 
 ## Instalação do Whaticket SaaS
 
-1 passo: Digite o comando abaixo para atualizar a vps
+- 1º passo: Digite o comando abaixo para atualizar a vps
 
 sudo apt-get update && sudo apt-get upgrade -y
 
-2 passo: digite o comando abaixo para reiniciar a vps:
+- 2º passo: digite o comando abaixo para reiniciar a vps:
 
 reboot
 
-3 passo: link do instalador.
+- 3º passo: link do instalador.
 sudo apt install -y git && git clone https://github.com/melissatreinamentos/install_whaticket.git && sudo chmod -R 777 instalador-whaticket-main-v.10.0.1 && cd instalador-whaticket-main-v.10.0.1 && sudo ./install_primaria
