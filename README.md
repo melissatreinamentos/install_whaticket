@@ -1,4 +1,4 @@
-# S.I. Whaticket 1.0
+# S.I. Whaticket SaaS
 
 <p align="center">
   <a href="https://www.codefactor.io/repository/github/rtenorioh/press-ticket"><img src="https://www.codefactor.io/repository/github/rtenorioh/press-ticket/badge" alt="CodeFactor" /></a>
@@ -40,9 +40,9 @@ Um sistema de tickets muito simples baseado em mensagens do WhatsApp, que permit
 
 ## Referência
 
-- O Sistema Press Ticket foi desenvolvido com base no [Sistema Whaticket](https://github.com/canove/whaticket), desenvolvido por [Cassio Santos](https://github.com/canove).
+- O Sistema Whaticket foi desenvolvido com base no [Sistema Whaticket](https://github.com/canove/whaticket), desenvolvido por [Cassio Santos](https://github.com/canove).
 
-## Instalação do whaticket
+## Instalação do Whaticket SaaS
 
 1 passo: Digite o comando abaixo para atualizar a vps
 
