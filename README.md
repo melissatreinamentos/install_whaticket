@@ -54,4 +54,4 @@ reboot
 
 - 3º passo: link do instalador.
   
-sudo apt install -y git && git clone https://github.com/melissatreinamentos/install_whaticket.git && sudo chmod -R 777 instalador-whaticket-main && cd instalador-whaticket-main && sudo ./install_primaria
+sudo apt install -y git && git clone https://github.com/melissatreinamentos/install_whaticket.git && sudo chmod -R 777 install_whaticket && cd install_whaticket && sudo ./install_primaria
